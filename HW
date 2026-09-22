@@ -1,0 +1,6 @@
+$ mkdir -p F74154037/lab_2_git
+$ cd F74154037/lab_2_git
+$ echo "first text" > first.txt
+$ git add first.txt
+$ git status
+$ git commit -m "Add F74154037"
